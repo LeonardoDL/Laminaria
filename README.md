@@ -69,10 +69,9 @@ If you believe the app is having bugs, you may press the Ctrl key to activate th
 
 ### Running this project yourself
 
-You need first to register an application on Spotify API. You can learn how to that [here](https://developer.spotify.com/documentation/web-api/quick-start/). Then you need to have python installed in your computer and with that also have the Spotipy library installed. Tkinter is usually a built-in python library but Linux distributions may not have it in the python built-in package. You may need to install it also.
+You need first to register an application on Spotify API. You can learn how to that [here](https://developer.spotify.com/documentation/web-api/quick-start/). Then you need to have python installed in your computer and with that also have the [Spotipy library](https://spotipy.readthedocs.io/en/2.14.0/?highlight=queu#) installed. Tkinter is usually a built-in python library but Linux distributions may not have it in the python built-in package. You may need to install it also.
 
 After all that, fill the 'CLIENT_ID' and 'CLIENT_SECRET' variables with their respective values that you'll find in your Spotify Dashboard and run the file 'guiCreatorMain.py'.
-
 
 # Improvements
 If I choose to keep this project going, I'll probably add the following features:
@@ -83,3 +82,7 @@ If I choose to keep this project going, I'll probably add the following features
 - Round Robin shuffling mode
 - Customize Intershuffle. Stay more often on the same playlist or not always change.
 - Remove Playback music limit (Currently it's 500)
+
+### Trivia
+
+Laminaria is a genus of brown algae commonly called "kelp". The color scheme is also based on it (blue for the sea and yellow/brown for the kelp).

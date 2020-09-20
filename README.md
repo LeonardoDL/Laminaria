@@ -21,7 +21,7 @@ every playlist)
 
 > Device where the music will be played:
 
-Choose which device the generated playback will be played in. If you opened a device after opening the app, give it 30 seconds and press the 'Refresh' button
+Choose which device the generated playback will be played in. If you opened a device after opening the app, give it 30 seconds and press the 'Refresh' button.
 
 > Refresh
 
@@ -32,7 +32,7 @@ Refreshes the app. Gets a new list of devices and playlists (in case you opened 
 - Intershuffle:
 	- A controlled method, it will pick random songs from the starting playlist until it finds one that is in another playlist, and it switches to that playlist and starts adding musics from there, until it finds another song that is also in another playlist, rinse repeat. It keeps switching playlist until there's no songs in the current playlist. It may go back to a previous playlist, but no song is added twice.
 - Chaotic:
-	- Joins all selected playlists and shuffles them
+	- Joins all selected playlists and shuffles them.
  
 > Choose starting playlist:
 
@@ -44,7 +44,7 @@ Choose which playlists you want to shuffle. You can select all playlists by pres
 
 > Run
 
-Run the app using the configurations provided in the options above
+Run the app using the configurations provided in the options above.
 
 > Save Playback as new Playlist
 

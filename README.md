@@ -1,7 +1,9 @@
 # Laminaria
 A playlist shuffling app for Spotify
 
-Disclaimer: The app may or may not call you stupid or poor
+Disclaimer: The app may or may not call you stupid and/or poor.
+
+You can find the latest builds for Windows and Linux [here](https://drive.google.com/drive/folders/1pgYlXthc3oFW54fC5xt2GR8Hi7cGflfP?usp=sharing).
 
 ### Setup
 
@@ -70,3 +72,14 @@ If you believe the app is having bugs, you may press the Ctrl key to activate th
 You need first to register an application on Spotify API. You can learn how to that [here](https://developer.spotify.com/documentation/web-api/quick-start/). Then you need to have python installed in your computer and with that also have the Spotipy library installed. Tkinter is usually a built-in python library but Linux distributions may not have it in the python built-in package. You may need to install it also.
 
 After all that, fill the 'CLIENT_ID' and 'CLIENT_SECRET' variables with their respective values that you'll find in your Spotify Dashboard and run the file 'guiCreatorMain.py'.
+
+
+# Improvements
+If I choose to keep this project going, I'll probably add the following features:
+- Add liked musics as if it was another playlist
+- Make albums count as playlist
+- Have a Dark Mode and the option to switch between Light and Dark
+- Accept any public playlists using a link or code (even if the user doesn't have it in the library)
+- Round Robin shuffling mode
+- Customize Intershuffle. Stay more often on the same playlist or not always change.
+- Remove Playback music limit (Currently it's 500)

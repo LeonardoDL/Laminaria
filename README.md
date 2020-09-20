@@ -30,7 +30,7 @@ Refreshes the app. Gets a new list of devices and playlists (in case you opened 
 > Shuffling Mode:
 
 - Intershuffle:
-	- A controlled method, it will pick random songs from the starting playlist until	it finds one that is in another playlist, and it switches to that playlist and starts adding musics from there, until it finds another song that is also in another playlist, rinse repeat. It keeps switching playlist until there's no songs in the current playlist. It may go back to a previous playlist, but no song is added twice.
+	- A controlled method, it will pick random songs from the starting playlist until it finds one that is in another playlist, and it switches to that playlist and starts adding musics from there, until it finds another song that is also in another playlist, rinse repeat. It keeps switching playlist until there's no songs in the current playlist. It may go back to a previous playlist, but no song is added twice.
 - Chaotic:
 	- Joins all selected playlists and shuffles them
  
@@ -85,4 +85,4 @@ If I choose to keep this project going, I'll probably add the following features
 
 ### Trivia
 
-Laminaria is a genus of brown algae commonly called "kelp". The color scheme is also based on it (blue for the sea and yellow/brown for the kelp).
+The name Laminaria is given after a genus of brown algae commonly called "kelp". The color scheme of the app is also based on it (blue for the sea and yellow/brown for the kelp).

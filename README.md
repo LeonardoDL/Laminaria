@@ -11,7 +11,7 @@ Some steps need to be followed before executing to make sure that it'll run fine
 - Have Spotify Premium
 - Have at least one device with Spotify open in it
 - Clear your playback
-	- Open you playback queue
+	- Open your playback queue
 	- Press the 'Clear' button
 	- If it's already clear, no button will appear
 - If you're going to use the Intershuffle method of shuffling, make sure you have at list one music that is shared between playlists (the song doesn't need to be the same for
@@ -69,7 +69,7 @@ If you believe the app is having bugs, you may press the Ctrl key to activate th
 
 ### Running this project yourself
 
-You need first to register an application on Spotify API. You can learn how to that [here](https://developer.spotify.com/documentation/web-api/quick-start/). Then you need to have python installed in your computer and with that also have the [Spotipy library](https://spotipy.readthedocs.io/en/2.14.0/?highlight=queu#) installed. Tkinter is usually a built-in python library but Linux distributions may not have it in the python built-in package. You may need to install it also.
+You need first to register an application on Spotify API. You can learn how to that [here](https://developer.spotify.com/documentation/web-api/quick-start/). Then you need to have python installed in your computer and with that also have the [Spotipy library](https://spotipy.readthedocs.io/en/2.14.0/?highlight=queu#) installed. Tkinter is usually a built-in python library but some Linux distributions may not have it in the python built-in package. You may need to install it also.
 
 After all that, fill the 'CLIENT_ID' and 'CLIENT_SECRET' variables with their respective values that you'll find in your Spotify Dashboard and run the file 'guiCreatorMain.py'.
 

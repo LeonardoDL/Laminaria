@@ -3,7 +3,7 @@ A playlist shuffling app for Spotify
 
 Disclaimer: The app may or may not call you stupid and/or poor.
 
-You can find the latest builds for Windows and Linux [here](https://drive.google.com/drive/folders/1pgYlXthc3oFW54fC5xt2GR8Hi7cGflfP?usp=sharing).
+You can find the latest builds for Windows and Linux [here](https://github.com/LeonardoDL/Laminaria/releases).
 
 ### Setup
 
